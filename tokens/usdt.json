@@ -1,0 +1,18 @@
+{
+    "asset":"Tether USD",
+    "assetMap":"USDT",
+    "market": "ALTS",
+    "description": "Tether (USDT) is a stablecoin pegged to the US Dollar",
+    "logoURI": "ipfs://QmRkenevKAWRfKMt6TZ6qqNR29dZ41zX4STG5RkufmcTBD",
+    "metaURI": "ipfs://bafkreieitwx5gofmbmnheih774zbszjn7dazizey4kujdqfjjacivpaonu",
+    "officialSiteUrl":"https://tether.to",
+    "contactEmail":"",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/tether.to",
+        "Reddit":"https://www.reddit.com/r/Tether/",
+        "Twitter":"https://x.com/tether",
+        "https://www.facebook.com/tether.to"
+    }
+}
+
